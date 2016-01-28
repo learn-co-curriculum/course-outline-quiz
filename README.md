@@ -4,24 +4,26 @@
 
 # Course Outline Quiz
 
-?: Which one of the following is not the smallest level of curriculum?
+?: What is the typical flow of lessons in a unit? 
 
-( ) lesson
-(X) unit
-( ) lab
-( ) readme
+(X) have a progression of readmes with each followed one by a lab, and more difficult labs at the very end of the unit
+( ) have a progression of labs with each one followed by a readme that explains the concept 
+( ) have all your readmes first and then all your labs following that
 
-?: At the end of a track, what’s an example of a large project you can add?
 
-( ) codealong lab where you build a CMS application
-(X) an open assessment where you build an email application 
-( ) a lab where you have to build your own tests 
+?: Which of the following is an example of a strong learning objective?
 
-?: Which of the following is a file that’s common to all lessons?
+( ) understand how locals and partials work in Rails
+( ) learn about MVC
+(X) render multiple routes with multiple views
 
-(X) license file
-( ) spec file
-( ) lib file
+
+?: Which of the following is NOT an example of a strong learning objective?
+
+( ) use the path method to filter HTTP requests
+(X) know about paths in an HTTP request
+( ) describe GET parameters and how they allow web applications to handle user queries
+
 
 ?: The contributing file gives guidelines for students on how to 
 
@@ -29,29 +31,42 @@
 (X) raise an issue
 ( ) edit the curriculum
 
-?: In a .learn file what are the four categories that you need to add tags for?
+?: Learning objectives should be (check all that apply)
 
-( ) languages, frameworks, resources, type
-( ) tags, frameworks, unit, track
-( ) frameworks, unit, track, resources
-(X) tags, language, resources, type
+[X] measurable
+[ ] abstract
+[X] observable
+[X] have specific conditions or criteria
 
-?: When writing a lesson that has objectives already defined, what is the first thing you do? 
+?: What is a good range of learning objectives to have in a lesson?
 
-( ) write your content in the Master branch
-(X) make a new branch off of Master and write your content in there
+( ) 1-3 
+(X) 3-8
+( ) 7-10
 
-?: The contributing file gives guidelines for students on how to 
+?: Learning objectives help your lesson be 
 
-( ) solve a lab
-(X) raise an issue
+(X) student-centered
+( ) content-centered
 
-?: When you’re finished writing a lesson, what do you do?
+?: What’s a good verb to start with if your learning objective requires students to create something (check all that apply):
 
-(X) make a Pull Request to the master branch
-( ) email us at Flatiron and let us know
-( ) raise an issue in the repository letting us know it’s ready for review
+[X] construct
+[ ] analyze
+[X] design
+[X] organize
 
+
+?: If you’re working on a lesson where we’ve defined the objectives for you, what do you do? 
+
+( ) just get started
+(X) review the objectives to make sure that they fit the correct format of learning objectives
+
+?: When writing your lessons, you should:
+
+(X) have your lessons follow multiple narrative domains so that students will have to apply their code in various scenarios
+( ) have all of your lessons follow the same narrative domain so that students can follow things more easily
 
 ???
+
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/course-outline-quiz'>Course Outline Quiz</a> on Learn.co and start learning to code for free.</p>
